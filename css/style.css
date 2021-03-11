@@ -1,0 +1,31 @@
+*{
+    box-sizing: border-box;
+}
+nav{
+    padding: 30px;
+}
+nav ul li {
+    display: inline-block;
+    float: left;
+    padding: 2px;
+    font-family: cursive;
+    font-weight: bolder;
+    font-size: large;
+    
+}
+nav ul li p{
+    font-size: small;
+    font-family: serif;
+    font-weight: normal;
+    
+}
+nav div {
+   width: 80%;
+  }
+li{
+      list-style: none;
+  }
+  body{
+      padding: 30px;
+  }
+  
